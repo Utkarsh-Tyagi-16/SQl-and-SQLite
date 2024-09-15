@@ -40,7 +40,15 @@ SQL (Structured Query Language) is a powerful standard language designed for man
 3. **Start Querying**:
 Use SQL commands like SELECT, INSERT, and UPDATE to manage your database.
 
-###🧠 Concepts You’ll Learn
-Data Management: Learn how to create, update, and delete data.
-Relational Concepts: Understand the relationships between different data points using foreign keys.
-Efficient Querying: Writing optimized queries using JOIN, GROUP BY, and HAVING.
+
+### 🧠 Concepts You’ll Learn
+
+- **Data Management**:
+  Learn how to create, update, and delete data.
+
+**Relational Concepts**:
+  Understand the relationships between different data points using foreign keys.
+
+**Efficient Querying**:
+  Writing optimized queries using JOIN, GROUP BY, and HAVING.
+
