@@ -46,9 +46,9 @@ Use SQL commands like SELECT, INSERT, and UPDATE to manage your database.
 - **Data Management**:
   Learn how to create, update, and delete data.
 
-**Relational Concepts**:
+- **Relational Concepts**:
   Understand the relationships between different data points using foreign keys.
 
-**Efficient Querying**:
+- **Efficient Querying**:
   Writing optimized queries using JOIN, GROUP BY, and HAVING.
 
